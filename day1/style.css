@@ -1,0 +1,42 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* .container{
+  
+    background-color: black;
+    color: #ffff;
+    margin: 0rem 25rem;
+}
+.container h1{
+    font-size: 15px;
+}
+#my-form
+
+{
+    margin: 0rem 25;
+} */
+.container{
+    padding: 2rem 3rem;
+    text-align: center;
+}
+#input{
+    margin-left: 550px;
+    text-align: center;
+}
+/* #addButon{
+    padding: 0 500px;
+} */
+.items{
+    padding: 2rem 4rem;
+    margin-left: 440px;
+}
+hr{
+    margin-left: 500px;
+    margin-right: 400px;
+}
+#removeButton{
+    border: 0px solid #ffff;
+    background-color: #ffff;
+    margin-left: 10px;
+}
